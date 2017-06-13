@@ -1,3 +1,4 @@
+
 var AppManage = {
     options:{},
     init:function(){
