@@ -1,7 +1,7 @@
 /**
-* Entry
+* Map
 **/
-var Navigableanage = {
+var MapMapanage = {
     options:{},
     init:function (){
 
@@ -45,10 +45,10 @@ var Navigableanage = {
     lastEntry:function(){
 
     },
-    lowerEntry:function(var key){
+    lowerEntry:function(){
 
     },
-    lowerKey:function(var key){
+    lowerKey:function(){
 
     },
     navigableKeySet:function(){
@@ -60,7 +60,7 @@ var Navigableanage = {
     pollLastEntry:function(){
 
     },
-    subMap:function(var fromKey , var toKey){
+    subMap:function(var fromKey , var to){
 
     },
     tailMap:function(var fromKey){

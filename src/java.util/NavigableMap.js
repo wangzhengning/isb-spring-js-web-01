@@ -1,7 +1,8 @@
 /**
-* Entry
+* NavigableMap:
+* 扩展的SortedMap，具有了针对给定搜索目标返回最接近匹配项的导航方法。
 **/
-var navigableMapManage = {
+var NavigableMapManage = {
     options:{},
     init:function (){
 
