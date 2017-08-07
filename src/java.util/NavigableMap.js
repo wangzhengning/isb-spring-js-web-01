@@ -1,7 +1,7 @@
 /**
 * Entry
 **/
-var EntryManage = {
+var navigableMapManage = {
     options:{},
     init:function (){
 
@@ -25,7 +25,7 @@ var EntryManage = {
     * 返回此项对应的旧值
     **/
     setValue:function(var value){
-        
+
     },
     hashCode:function(){
       int hashCode = 0;
